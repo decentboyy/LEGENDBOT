@@ -46,7 +46,7 @@
 <h3> Dєρℓογ το нєяοκυ </h3>
 
 ## U Can Click Below Without Fork If Eror Then Go To Down One Deploy To Heroku
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/decentboyy/LEGENDBOT)
 
 
 - First Fork This Repo
